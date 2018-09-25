@@ -20,7 +20,7 @@ import { LayoutComponent } from './ui/layout/layout.component';
   imports: [
     BrowserModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyAXbBAK9qG_SmW8b196UR1axXC5QvKxjY8'
+      apiKey: ''
     }),
     BrowserAnimationsModule,
     LayoutModule,
